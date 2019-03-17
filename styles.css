@@ -1,0 +1,41 @@
+#google{
+  width:100%;
+  height:auto;
+}
+#google img{
+  margin:auto;
+}
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid #555;
+  border-radius: 4px;
+  }
+  input:hover{
+    background-color: white;
+  }
+
+#inputGoogle{
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Google_mic.svg/716px-Google_mic.svg.png");
+  background-repeat:no-repeat;
+  background-position: right;
+  background-size: 20px 25px;
+}
+div.container {
+  text-align: center;
+  padding: 10px 20px;
+  display:inline-block;
+
+}
+icon{
+  margin-right: 100px;
+}
+button{
+  display:inline;
+}
+#lang{
+  color:blue;
+  text-decoration: underline;
+}
